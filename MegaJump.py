@@ -1,5 +1,4 @@
 ########## MEGAJUMP! #############
-# Test
 import pygame, sys, time, random
 from pygame.locals import *
 from pyglet import clock
